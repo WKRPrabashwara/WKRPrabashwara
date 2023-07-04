@@ -1,27 +1,28 @@
 <h1 align="center">Hɪ 👾, I'm Rɪvɪbɪbu Praba$wara</h1>
-<br>
 <img src="https://github.githubassets.com/images/modules/site/about/octocats.webp" alt="Banner" width="100%" />
-<br><br>
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wkrprabashwara&show_icons=true&locale=en" alt="wkrprabashwara" width="47%" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wkrprabashwara&" alt="wkrprabashwara" width="48%" /></p>
-</div>
+
+<h2 align="center">- Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ -</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wkrprabashwara&theme=dark&hide_border=false">
+</p>
+<p>
+  <img src="https://api.roadmap.sh/v1-badge/wide/64a362c4d99c9d6731ad01be?variant=dark" alt="roadmap.sh"/>
+  <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 
-# シ
+<h2 align="center">- Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇꜱ -</h2>
 
-<div align=center>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wkrprabashwara&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
 
-```{r klippy, echo=FALSE, include=TRUE}
-print("Hello world")
-```
-</div>
-
- <div align=center>
-
-  [<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
-  [<img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />](https://getbootstrap.com "Bootstrap")
-  [<img align="center" alt="Chai" height="30" width="30" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />](https://www.chaijs.com/ "Chai")
-  [<img align="center" alt="Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.w3schools.com/css/ "Css")
+[<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
+[<img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />](https://getbootstrap.com "Bootstrap")
+[<img align="center" alt="Chai" height="30" width="30" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />](https://www.chaijs.com/ "Chai")
+[<img align="center" alt="Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://www.w3schools.com/css/ "Css")
   [<img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/ "Docker")
   [<img align="center" alt="EsLint" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />](https://eslint.org/ "EsLint")
   [<img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/ "Express")
@@ -43,6 +44,3 @@ print("Hello world")
   [<img align="center" alt="Thunder Client" height="30" width="30" src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" />](https://www.thunderclient.com/ "Thunder Client")
   [<img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/ "Typescript")
   [<img align="center" alt="Ubuntu" height="30" width="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />](https://ubuntu.com/ "Ubuntu")
- </div>
-
-</p>
