@@ -4,12 +4,12 @@
 <h2 align="center">- Gɪᴛʜᴜʙ Sᴛᴀᴛᴜꜱ -</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wkrprabashwara&theme=dark&hide_border=false">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wkrprabashwara&theme=dark&hide_border=false">
 </p>
 <p>
-  <img src="https://api.roadmap.sh/v1-badge/wide/64a362c4d99c9d6731ad01be?variant=dark" alt="roadmap.sh"/>
-  <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img width="400px" src="https://api.roadmap.sh/v1-badge/wide/64a362c4d99c9d6731ad01be?variant=dark" alt="roadmap.sh"/>
+  <img align="right" width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkrprabashwara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 
