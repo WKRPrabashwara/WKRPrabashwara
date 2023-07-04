@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wkrprabashwara&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">- I'ᴍ Oɴ -</h2>
+<h2 align="center">- ッ -</h2>
 
 [<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
 [<img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />](https://getbootstrap.com "Bootstrap")
